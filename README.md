@@ -1,5 +1,6 @@
 # pydantic_ai_examples
 It is a repo for examples in building ai agents using pydantic ai framework
+Test
 
 PydanticAI is a robust Python framework designed to streamline the development of production-ready AI agents. It leverages the power and familiarity of Pydantic, a popular data validation and parsing library, to bring type safety, structure, and ease of use to the world of AI agent creation. This tutorial provides a comprehensive, hands-on guide to building your own sophisticated AI agents using PydanticAI.
 
